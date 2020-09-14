@@ -28,10 +28,13 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 Sessions are stored in the server memory; tokens require constant communication between the server and user. If the token fails the connection fails. Sessions can stay active based on certain parameters. 
 
 2. What does `bcrypt` do to help us store passwords in a secure manner.
+Bcrypt hashes the passwords; which is a form of encryption. This makes passwords harder to guess.
 
 3. How are unit tests different from integration and end-to-end testing.
+Unit testing means testing seperate portions of an application on their own. Integration and end to end testing, tests the apps as a whole.
 
 4. How _Test Driven Development_ changes the way we write applications and tests.
+Test driven development allows you to create tests before code. This ensures that your app is performing the required functionality.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
