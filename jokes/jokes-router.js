@@ -1,5 +1,5 @@
 const axios = require('axios');
-const auth = require("../auth/authenticate-middleware");
+const auth = require("../auth/authenticate-middleware")
 
 const router = require('express').Router();
 
